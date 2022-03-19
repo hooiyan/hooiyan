@@ -1,7 +1,7 @@
 # Hi everyone 👋
 
 - 🥅 I'm currently improving my frontend skills & working on [Frontend Mentor challenges](https://www.frontendmentor.io/challenges)
-- 🌱 I'm currently re-learning React through [React Docs Beta](https://beta.reactjs.org/learn)
+- 🌱 I'm re-learning React through [React Docs Beta](https://beta.reactjs.org/learn)
 - 📱 I'm interested in learning mobile app development (iOS & Flutter)
 - 😃 Pronouns: She/Her
 
