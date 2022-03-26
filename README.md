@@ -19,9 +19,9 @@
 
 ---
 
-[![hooiyan's GitHub stats](https://github-readme-stats.vercel.app/api?username=hooiyan&theme=synthwave&show_icons=true)](https://github.com/hooiyan/github-readme-stats)
+[![hooiyan's GitHub stats](https://github-readme-stats.vercel.app/api?username=hooiyan&theme=vue-dark&show_icons=true&hide_title=true&hide_rank=true)](https://github.com/hooiyan/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hooiyan&theme=synthwave&show_icons=true)](https://github.com/hooiyan/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hooiyan&theme=vue-dark&show_icons=true&layout=compact&hide_title=true)](https://github.com/hooiyan/github-readme-stats)
 
 <!---
 hooiyan/hooiyan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
