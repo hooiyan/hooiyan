@@ -15,7 +15,7 @@
 - 😃 Pronouns: She/Her
 
 
-- 📫️ Reach me at hoehooiyan@gmail.com
+- 📫️ Reach me at hoecoding@gmail.com
 
 ---
 
