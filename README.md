@@ -6,7 +6,7 @@
 - 🌱 I'm re-learning React through [React Docs Beta](https://beta.reactjs.org/learn)
 
 
-- 🍏 I'm learning Vue through [Vue Official Tutorial](https://vuejs.org/tutorial/#step-1) and [TheNetNinja's Vue Course](https://netninja.dev/p/build-websites-with-vue-3-firebase)
+- 🍏 I'm learning Vue through [TheNetNinja's Vue Course](https://netninja.dev/p/build-websites-with-vue-3-firebase)
 
 
 - 📱 I'm interested in Mobile App Development ([iOS](https://developer.apple.com/tutorials/app-dev-training) & [Flutter](https://flutter.dev/) & [React Native](https://reactnative.dev/))
