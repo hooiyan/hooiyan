@@ -14,9 +14,6 @@
 
 - 😃 Pronouns: She/Her
 
-
-- 📫️ Reach me at hoecoding@gmail.com
-
 ---
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hooiyan&theme=vue-dark&show_icons=true&layout=compact&hide_title=true)](https://github.com/hooiyan/github-readme-stats)
