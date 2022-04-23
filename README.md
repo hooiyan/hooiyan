@@ -1,4 +1,4 @@
-# 👋 Hi everyone, I'm Hooi Yan 
+# 👋 Hi everyone
 
 - 🥅 I'm currently improving my Front End skills & working on [Frontend Mentor challenges](https://www.frontendmentor.io/challenges)
 
